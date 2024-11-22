@@ -1,1 +1,5 @@
-.ipynb_checkpoins/.ipynb_checkpoints/deep_learning-checkpoint.ipynb
+.ipynb_checkpoins/
+.ipynb_checkpoints/deep_learning-checkpoint.ipynb
+maestro_dataset/mp3/*
+maestro_dataset/FluidR3_GM.sf2
+__pycache__/
